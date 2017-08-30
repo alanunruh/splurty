@@ -1,24 +1,19 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty is a quote generator that keeps track and displays quotes at random. You can log in and insert your own quotes in the database too.
 
-Things you may want to cover:
+*Technical description: A database-powered quote generator with a mobile-first design, using the Ruby on Rails framework, HTML and CSS. Using Git and GitHub version control launched through Heroku.*
 
-* Ruby version
+## Features
 
-* System dependencies
+* Users can upload their favorite quotes via modal forms.
 
-* Configuration
+* Twitter Bootstrap 3 for CSS and components.
 
-* Database creation
+* PostgrSQL for database queries and storage of quotes/user data.
 
-* Database initialization
+* Quotes are randomly selected and displayed from the database.
 
-* How to run the test suite
+## View It Live
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://splurty-alan-unruh.herokuapp.com/
